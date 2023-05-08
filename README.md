@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Prueba de código https://github.com/oei-int/code-test
 
-Things you may want to cover:
+Para probarla solo sería necesario descargar el proyecto, ejecutar migraciones "rake db:migrate" y los seeds "rake db:seed"
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Los archivos test_cases.txt y test-attack.sh se encuentran dentro de la carpeta "Test"

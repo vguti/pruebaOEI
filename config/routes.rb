@@ -5,5 +5,4 @@ Rails.application.routes.draw do
   # root "articles#index"
 
   get 'courses/select', to: 'courses#select'
-  #GET /api/courses/schools_and_topics
 end
